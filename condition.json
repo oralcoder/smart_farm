@@ -1,0 +1,32 @@
+{
+  "basil": {
+    "ledStart": "06:00",
+    "ledEnd": "18:00",
+    "fanTempOn": 25.0,
+    "fanTempOff": 23.0,
+    "fanHumidityOn": 70.0,
+    "fanHumidityOff": 60.0,
+    "pumpIntervalMin": 180,
+    "pumpDurationMin": 3
+  },
+  "tomato": {
+    "ledStart": "07:30",
+    "ledEnd": "19:30",
+    "fanTempOn": 20.0,
+    "fanTempOff": 18.0,
+    "fanHumidityOn": 80.0,
+    "fanHumidityOff": 70.0,
+    "pumpIntervalMin": 120,
+    "pumpDurationMin": 2
+  },
+  "lettuce": {
+    "ledStart": "05:00",
+    "ledEnd": "20:00",
+    "fanTempOn": 28.0,
+    "fanTempOff": 26.0,
+    "fanHumidityOn": 60.0,
+    "fanHumidityOff": 50.0,
+    "pumpIntervalMin": 240,
+    "pumpDurationMin": 5
+  }
+}
